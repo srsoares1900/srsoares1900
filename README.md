@@ -1,4 +1,4 @@
-### Olá 🖖
+### Olá este é um repositório teste (usado para aprendizagem) 🖖
 
 <!--
 **srsoares1900/srsoares1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
